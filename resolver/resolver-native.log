@@ -1,0 +1,384 @@
+2026-08-07 15:36:52.592 [native-resolver] ----- native resolver start requested -----
+2026-08-07 15:36:52.611 [native-resolver] config loaded: bind=127.0.0.1:8787 host=bw-overlay-service-lolcor33.l.aivencloud.com:14338 db=defaultdb user=avnadmin reportTable=pika_player_reports requireSignature=true secretPresent=true
+2026-08-07 15:36:52.734 [native-resolver] mysql client loaded: Z:\projecten\pika-stats-overlay\release\libmariadb.dll sslMode=REQUIRED tlsCa=Z:\projecten\pika-stats-overlay\release\resolver\resolver-ca.pem
+2026-08-07 15:36:53.352 [native-resolver] EnsureReportTable ok table=pika_player_reports removedOldRows=0 removedOldClients=0 (clientRetentionDays=7)
+2026-08-07 15:36:53.360 [native-resolver] resolver started on 127.0.0.1:8787
+2026-08-07 15:36:55.119 [native-resolver] resolver stopped
+2026-08-07 17:50:36.500 [native-resolver] ----- native resolver start requested -----
+2026-08-07 17:50:36.517 [native-resolver] config loaded: bind=127.0.0.1:8787 host=bw-overlay-service-lolcor33.l.aivencloud.com:14338 db=defaultdb user=avnadmin reportTable=pika_player_reports requireSignature=true secretPresent=true
+2026-08-07 17:50:36.654 [native-resolver] mysql client loaded: Z:\projecten\pika-stats-overlay\release\libmariadb.dll sslMode=REQUIRED tlsCa=Z:\projecten\pika-stats-overlay\release\resolver\resolver-ca.pem
+2026-08-07 17:50:37.881 [native-resolver] EnsureReportTable ok table=pika_player_reports removedOldRows=0 removedOldClients=0 (clientRetentionDays=7)
+2026-08-07 17:50:37.888 [native-resolver] resolver started on 127.0.0.1:8787
+2026-08-07 17:50:45.178 [native-resolver] resolver stopped
+2026-08-08 13:32:06.002 [native-resolver] ----- native resolver start requested -----
+2026-08-08 13:32:06.035 [native-resolver] config loaded: bind=127.0.0.1:8787 host=bw-overlay-service-lolcor33.l.aivencloud.com:14338 db=defaultdb user=avnadmin reportTable=pika_player_reports requireSignature=true secretPresent=true
+2026-08-08 13:32:06.291 [native-resolver] mysql client loaded: Z:\projecten\pika-stats-overlay\release\libmariadb.dll sslMode=REQUIRED tlsCa=Z:\projecten\pika-stats-overlay\release\resolver\resolver-ca.pem
+2026-08-08 13:32:07.922 [native-resolver] EnsureReportTable ok table=pika_player_reports removedOldRows=0 removedOldClients=2 (clientRetentionDays=7)
+2026-08-08 13:32:07.957 [native-resolver] resolver started on 127.0.0.1:8787
+2026-08-08 13:32:35.027 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 13:32:38.123 [native-resolver] StoreDb insert query failed, attempt=1: code=1062 state=23000 message=Duplicate entry 'PTE_YT_717' for key 'pika_bedwars_monthly_wins.PRIMARY'
+2026-08-08 13:32:38.172 [native-resolver] StoreDb rollback, attempt=1
+2026-08-08 13:32:38.222 [native-resolver] StoreDb finished with failure uuid=490377a9493f4f7fad46a61213c19109 name=PTE_YT_717
+2026-08-08 13:32:38.264 [native-resolver] store db_error uuid=490377a9493f4f7fad46a61213c19109 name=PTE_YT_717 rank=Elite
+2026-08-08 13:32:38.302 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 13:32:38.453 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 13:32:38.808 [native-resolver] signature invalid (store): nonce replay 1786188758wtv6
+2026-08-08 13:32:38.970 [native-resolver] StoreDb commit ok updated=0 inserted=1
+2026-08-08 13:32:47.679 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 13:32:47.909 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 13:33:08.289 [native-resolver] resolver stopped
+2026-08-08 20:23:58.811 [native-resolver] ----- native resolver start requested -----
+2026-08-08 20:23:58.835 [native-resolver] config loaded: bind=127.0.0.1:8787 host=bw-overlay-service-lolcor33.l.aivencloud.com:14338 db=defaultdb user=avnadmin reportTable=pika_player_reports requireSignature=true secretPresent=true
+2026-08-08 20:23:59.082 [native-resolver] mysql client loaded: Z:\projecten\pika-stats-overlay\release\libmariadb.dll sslMode=REQUIRED tlsCa=Z:\projecten\pika-stats-overlay\release\resolver\resolver-ca.pem
+2026-08-08 20:24:00.850 [native-resolver] EnsureReportTable ok table=pika_player_reports removedOldRows=0 removedOldClients=0 (clientRetentionDays=7)
+2026-08-08 20:24:00.863 [native-resolver] resolver started on 127.0.0.1:8787
+2026-08-08 20:24:47.913 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:24:49.386 [native-resolver] StoreDb commit ok updated=0 inserted=1
+2026-08-08 20:24:50.157 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:24:50.431 [native-resolver] StoreDb commit ok updated=0 inserted=1
+2026-08-08 20:25:06.602 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:25:06.890 [native-resolver] StoreDb commit ok updated=0 inserted=1
+2026-08-08 20:25:18.532 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:25:18.564 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:25:18.591 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:25:19.903 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 20:25:20.089 [native-resolver] StoreDb commit ok updated=0 inserted=1
+2026-08-08 20:25:20.173 [native-resolver] StoreDb commit ok updated=0 inserted=1
+2026-08-08 20:25:27.023 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:25:27.485 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:25:27.899 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:25:27.963 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:25:28.523 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 20:25:28.935 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 20:25:29.501 [native-resolver] StoreDb commit ok updated=0 inserted=1
+2026-08-08 20:25:29.553 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 20:25:51.246 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:25:51.409 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 20:26:04.919 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:26:05.100 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:26:06.248 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 20:26:06.379 [native-resolver] StoreDb insert query failed, attempt=1: code=1062 state=23000 message=Duplicate entry 'Saikik_G5' for key 'pika_bedwars_monthly_wins.PRIMARY'
+2026-08-08 20:26:06.408 [native-resolver] StoreDb rollback, attempt=1
+2026-08-08 20:26:06.427 [native-resolver] StoreDb finished with failure uuid=4d328d00bc214fe69cea83d6988f3cd6 name=Saikik_G5
+2026-08-08 20:26:06.439 [native-resolver] store db_error uuid=4d328d00bc214fe69cea83d6988f3cd6 name=Saikik_G5 rank=VIP
+2026-08-08 20:26:14.487 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:26:14.615 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:26:14.782 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:26:15.047 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 20:26:15.129 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 20:26:15.307 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 20:26:24.939 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:26:25.209 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 20:26:43.732 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:26:44.449 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 20:27:50.771 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:27:50.910 [native-resolver] StoreDb commit ok updated=0 inserted=1
+2026-08-08 20:28:29.027 [native-resolver] resolver stopped
+2026-08-08 20:52:04.918 [native-resolver] ----- native resolver start requested -----
+2026-08-08 20:52:04.962 [native-resolver] config loaded: bind=127.0.0.1:8787 host=bw-overlay-service-lolcor33.l.aivencloud.com:14338 db=defaultdb user=avnadmin reportTable=pika_player_reports requireSignature=true secretPresent=true
+2026-08-08 20:52:05.214 [native-resolver] mysql client loaded: Z:\projecten\pika-stats-overlay\release\libmariadb.dll sslMode=REQUIRED tlsCa=Z:\projecten\pika-stats-overlay\release\resolver\resolver-ca.pem
+2026-08-08 20:52:06.673 [native-resolver] EnsureReportTable ok table=pika_player_reports removedOldRows=0 removedOldClients=0 (clientRetentionDays=7)
+2026-08-08 20:52:06.707 [native-resolver] resolver started on 127.0.0.1:8787
+2026-08-08 20:53:12.771 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:53:14.172 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 20:53:42.319 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:53:42.670 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 20:53:48.533 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:53:48.745 [native-resolver] StoreDb insert query failed, attempt=1: code=1062 state=23000 message=Duplicate entry 'shantnahihu' for key 'pika_bedwars_monthly_wins.PRIMARY'
+2026-08-08 20:53:48.776 [native-resolver] StoreDb rollback, attempt=1
+2026-08-08 20:53:48.823 [native-resolver] StoreDb finished with failure uuid=cf19c15957ae4de0b34d2310e36decab name=shantnahihu
+2026-08-08 20:53:48.833 [native-resolver] store db_error uuid=cf19c15957ae4de0b34d2310e36decab name=shantnahihu rank=VIP
+2026-08-08 20:54:19.061 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:54:19.233 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 20:55:30.223 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:55:30.377 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 20:55:46.643 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:55:47.555 [native-resolver] StoreDb insert query failed, attempt=1: code=1062 state=23000 message=Duplicate entry 'zNotqx' for key 'pika_bedwars_monthly_wins.PRIMARY'
+2026-08-08 20:55:47.570 [native-resolver] StoreDb rollback, attempt=1
+2026-08-08 20:55:47.597 [native-resolver] StoreDb finished with failure uuid=693ab62a9f544511b97d6c1a23069fef name=zNotqx
+2026-08-08 20:55:47.626 [native-resolver] store db_error uuid=693ab62a9f544511b97d6c1a23069fef name=zNotqx rank=Titan
+2026-08-08 20:55:49.483 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:55:49.617 [native-resolver] StoreDb commit ok updated=0 inserted=1
+2026-08-08 20:55:51.595 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:55:51.810 [native-resolver] StoreDb commit ok updated=0 inserted=1
+2026-08-08 20:56:03.128 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:56:03.160 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:56:03.182 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:56:04.169 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 20:56:04.269 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 20:56:04.315 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 20:56:23.872 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:56:23.891 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:56:23.915 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:56:23.935 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:56:23.973 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:56:23.985 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:56:24.005 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:56:24.021 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:56:24.038 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 20:56:25.868 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 20:56:25.952 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 20:56:26.045 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 20:56:26.189 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 20:56:26.208 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 20:56:26.316 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 20:56:26.351 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 20:56:26.455 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 20:56:26.551 [native-resolver] StoreDb insert query failed, attempt=1: code=1062 state=23000 message=Duplicate entry 'MutualAgreement' for key 'pika_bedwars_monthly_wins.PRIMARY'
+2026-08-08 20:56:26.588 [native-resolver] StoreDb rollback, attempt=1
+2026-08-08 20:56:26.626 [native-resolver] StoreDb finished with failure uuid=3924367b88fb427ca8a6238bddbe0106 name=MutualAgreement
+2026-08-08 20:56:26.674 [native-resolver] store db_error uuid=3924367b88fb427ca8a6238bddbe0106 name=MutualAgreement rank=Titan
+2026-08-08 20:57:34.908 [native-resolver] resolver stopped
+2026-08-08 21:13:41.864 [native-resolver] ----- native resolver start requested -----
+2026-08-08 21:13:41.895 [native-resolver] config loaded: bind=127.0.0.1:8787 host=bw-overlay-service-lolcor33.l.aivencloud.com:14338 db=defaultdb user=avnadmin reportTable=pika_player_reports requireSignature=true secretPresent=true
+2026-08-08 21:13:42.207 [native-resolver] mysql client loaded: Z:\projecten\pika-stats-overlay\release\libmariadb.dll sslMode=REQUIRED tlsCa=Z:\projecten\pika-stats-overlay\release\resolver\resolver-ca.pem
+2026-08-08 21:13:42.956 [native-resolver] EnsureReportTable ok table=pika_player_reports removedOldRows=0 removedOldClients=0 (clientRetentionDays=7)
+2026-08-08 21:13:42.967 [native-resolver] resolver started on 127.0.0.1:8787
+2026-08-08 21:16:12.294 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:16:12.356 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:16:14.008 [native-resolver] StoreDb commit ok updated=0 inserted=1
+2026-08-08 21:16:14.037 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 21:16:14.912 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:16:15.099 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 21:16:20.529 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:16:22.043 [native-resolver] StoreDb insert query failed, attempt=1: code=1062 state=23000 message=Duplicate entry 'MAX11' for key 'pika_bedwars_monthly_wins.PRIMARY'
+2026-08-08 21:16:22.079 [native-resolver] StoreDb rollback, attempt=1
+2026-08-08 21:16:22.117 [native-resolver] StoreDb finished with failure uuid=74f05e10870a49878802798d54ac8635 name=MAX11
+2026-08-08 21:16:22.141 [native-resolver] store db_error uuid=74f05e10870a49878802798d54ac8635 name=MAX11 rank=Titan
+2026-08-08 21:16:27.510 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:16:27.523 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:16:27.542 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:16:27.575 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:16:27.640 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 21:16:27.672 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 21:16:27.764 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 21:16:27.797 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 21:16:41.126 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:16:42.348 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 21:17:03.071 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:17:03.436 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 21:17:05.613 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:17:05.642 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:17:06.977 [native-resolver] StoreDb commit ok updated=0 inserted=1
+2026-08-08 21:17:07.000 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 21:17:07.269 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:17:07.449 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 21:17:08.422 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:17:08.603 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:17:08.631 [native-resolver] StoreDb commit ok updated=0 inserted=1
+2026-08-08 21:17:08.646 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:17:08.664 [native-resolver] signature invalid (store): nonce replay 1786216628cari
+2026-08-08 21:17:08.802 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 21:17:32.478 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:17:32.600 [native-resolver] StoreDb insert query failed, attempt=1: code=1062 state=23000 message=Duplicate entry 'elfo05' for key 'pika_bedwars_monthly_wins.PRIMARY'
+2026-08-08 21:17:32.630 [native-resolver] StoreDb rollback, attempt=1
+2026-08-08 21:17:32.662 [native-resolver] StoreDb finished with failure uuid=d5cf741ec01c4254ac6542e8b1ff0710 name=elfo05
+2026-08-08 21:17:32.705 [native-resolver] store db_error uuid=d5cf741ec01c4254ac6542e8b1ff0710 name=elfo05 rank=Titan
+2026-08-08 21:18:46.126 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:18:46.448 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 21:20:45.694 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:20:45.886 [native-resolver] StoreDb commit ok updated=0 inserted=1
+2026-08-08 21:21:05.852 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:21:05.991 [native-resolver] StoreDb commit ok updated=0 inserted=1
+2026-08-08 21:21:38.147 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:21:38.272 [native-resolver] StoreDb commit ok updated=0 inserted=1
+2026-08-08 21:22:08.530 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:22:08.654 [native-resolver] StoreDb insert query failed, attempt=1: code=1062 state=23000 message=Duplicate entry 'elfo05' for key 'pika_bedwars_monthly_wins.PRIMARY'
+2026-08-08 21:22:08.669 [native-resolver] StoreDb rollback, attempt=1
+2026-08-08 21:22:08.685 [native-resolver] StoreDb finished with failure uuid=d5cf741ec01c4254ac6542e8b1ff0710 name=elfo05
+2026-08-08 21:22:08.693 [native-resolver] store db_error uuid=d5cf741ec01c4254ac6542e8b1ff0710 name=elfo05 rank=Titan
+2026-08-08 21:22:12.586 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:22:12.856 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 21:22:22.808 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:22:22.968 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 21:22:51.048 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:22:51.198 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 21:22:55.153 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:22:55.287 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 21:23:19.063 [native-resolver] resolver stopped
+2026-08-08 21:32:42.992 [native-resolver] ----- native resolver start requested -----
+2026-08-08 21:32:43.051 [native-resolver] config loaded: bind=127.0.0.1:8787 host=bw-overlay-service-lolcor33.l.aivencloud.com:14338 db=defaultdb user=avnadmin reportTable=pika_player_reports requireSignature=true secretPresent=true
+2026-08-08 21:32:43.302 [native-resolver] mysql client loaded: Z:\projecten\pika-stats-overlay\release\libmariadb.dll sslMode=REQUIRED tlsCa=Z:\projecten\pika-stats-overlay\release\resolver\resolver-ca.pem
+2026-08-08 21:32:44.151 [native-resolver] EnsureReportTable ok table=pika_player_reports removedOldRows=0 removedOldClients=0 (clientRetentionDays=7)
+2026-08-08 21:32:44.163 [native-resolver] resolver started on 127.0.0.1:8787
+2026-08-08 21:33:44.388 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:33:46.214 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 21:33:52.963 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:33:53.019 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:33:54.729 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 21:33:54.832 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 21:34:06.359 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:34:06.622 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:34:06.673 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:34:06.714 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:34:06.743 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:34:06.776 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:34:06.801 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:34:08.018 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 21:34:08.220 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 21:34:08.243 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 21:34:08.443 [native-resolver] StoreDb commit ok updated=0 inserted=1
+2026-08-08 21:34:08.467 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 21:34:08.677 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 21:34:08.736 [native-resolver] StoreDb insert query failed, attempt=1: code=1062 state=23000 message=Duplicate entry 'Yonkozz' for key 'pika_bedwars_monthly_wins.PRIMARY'
+2026-08-08 21:34:08.775 [native-resolver] StoreDb rollback, attempt=1
+2026-08-08 21:34:08.812 [native-resolver] StoreDb finished with failure uuid=406f55ed04834d2dad4785b60f2ff3ae name=Yonkozz
+2026-08-08 21:34:08.843 [native-resolver] store db_error uuid=406f55ed04834d2dad4785b60f2ff3ae name=Yonkozz rank=Titan
+2026-08-08 21:34:23.735 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:34:24.068 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 21:34:42.070 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:34:42.171 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:34:42.218 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:34:43.490 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 21:34:43.505 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 21:34:43.645 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 21:35:47.730 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:35:49.047 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 21:35:49.941 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:35:50.171 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 21:35:50.216 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:35:50.407 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 21:35:52.277 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:35:52.435 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 21:36:28.063 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:36:28.297 [native-resolver] StoreDb commit ok updated=0 inserted=1
+2026-08-08 21:38:31.284 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 21:38:31.386 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 21:39:09.168 [native-resolver] resolver stopped
+2026-08-08 22:04:05.855 [native-resolver] ----- native resolver start requested -----
+2026-08-08 22:04:05.889 [native-resolver] config loaded: bind=127.0.0.1:8787 host=bw-overlay-service-lolcor33.l.aivencloud.com:14338 db=defaultdb user=avnadmin reportTable=pika_player_reports requireSignature=true secretPresent=true
+2026-08-08 22:04:06.175 [native-resolver] mysql client loaded: Z:\projecten\pika-stats-overlay\release\libmariadb.dll sslMode=REQUIRED tlsCa=Z:\projecten\pika-stats-overlay\release\resolver\resolver-ca.pem
+2026-08-08 22:04:07.383 [native-resolver] EnsureReportTable ok table=pika_player_reports removedOldRows=0 removedOldClients=0 (clientRetentionDays=7)
+2026-08-08 22:04:07.393 [native-resolver] resolver started on 127.0.0.1:8787
+2026-08-08 22:05:42.584 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 22:05:43.969 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 22:06:10.016 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 22:06:10.272 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 22:06:11.389 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 22:06:11.655 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 22:06:55.580 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 22:06:55.734 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 22:07:33.371 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 22:07:33.433 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 22:07:34.377 [native-resolver] StoreDb commit ok updated=0 inserted=1
+2026-08-08 22:07:34.536 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 22:07:36.855 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 22:07:37.021 [native-resolver] StoreDb commit ok updated=0 inserted=1
+2026-08-08 22:08:25.025 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 22:08:26.098 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 22:11:06.102 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 22:11:06.243 [native-resolver] StoreDb insert query failed, attempt=1: code=1062 state=23000 message=Duplicate entry 'Yonkozz' for key 'pika_bedwars_monthly_wins.PRIMARY'
+2026-08-08 22:11:06.259 [native-resolver] StoreDb rollback, attempt=1
+2026-08-08 22:11:06.276 [native-resolver] StoreDb finished with failure uuid=406f55ed04834d2dad4785b60f2ff3ae name=Yonkozz
+2026-08-08 22:11:06.284 [native-resolver] store db_error uuid=406f55ed04834d2dad4785b60f2ff3ae name=Yonkozz rank=Titan
+2026-08-08 22:11:08.232 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 22:11:08.586 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 22:14:02.069 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 22:14:02.184 [native-resolver] StoreDb commit ok updated=0 inserted=1
+2026-08-08 22:14:40.726 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 22:14:40.832 [native-resolver] StoreDb insert query failed, attempt=1: code=1062 state=23000 message=Duplicate entry 'Saikik_G5' for key 'pika_bedwars_monthly_wins.PRIMARY'
+2026-08-08 22:14:40.848 [native-resolver] StoreDb rollback, attempt=1
+2026-08-08 22:14:40.862 [native-resolver] StoreDb finished with failure uuid=4d328d00bc214fe69cea83d6988f3cd6 name=Saikik_G5
+2026-08-08 22:14:40.874 [native-resolver] store db_error uuid=4d328d00bc214fe69cea83d6988f3cd6 name=Saikik_G5 rank=VIP
+2026-08-08 22:16:41.408 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-08 22:16:41.512 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-08 22:16:56.122 [native-resolver] resolver stopped
+2026-08-08 22:30:41.343 [native-resolver] ----- native resolver start requested -----
+2026-08-08 22:30:41.369 [native-resolver] config loaded: bind=127.0.0.1:8787 host=bw-overlay-service-lolcor33.l.aivencloud.com:14338 db=defaultdb user=avnadmin reportTable=pika_player_reports requireSignature=true secretPresent=true
+2026-08-08 22:30:41.565 [native-resolver] mysql client loaded: Z:\projecten\pika-stats-overlay\release\libmariadb.dll sslMode=REQUIRED tlsCa=Z:\projecten\pika-stats-overlay\release\resolver\resolver-ca.pem
+2026-08-08 22:30:42.285 [native-resolver] EnsureReportTable ok table=pika_player_reports removedOldRows=0 removedOldClients=0 (clientRetentionDays=7)
+2026-08-08 22:30:42.294 [native-resolver] resolver started on 127.0.0.1:8787
+2026-08-08 22:31:56.776 [native-resolver] resolver stopped
+2026-08-09 14:31:13.654 [native-resolver] ----- native resolver start requested -----
+2026-08-09 14:31:13.654 [native-resolver] config loaded: bind=127.0.0.1:8787 host=bw-overlay-service-lolcor33.l.aivencloud.com:14338 db=defaultdb user=avnadmin reportTable=pika_player_reports requireSignature=true secretPresent=true
+2026-08-09 14:31:13.655 [native-resolver] mysql client loaded: C:\Users\cor\Downloads\release\libmariadb.dll sslMode=REQUIRED tlsCa=C:\Users\cor\Downloads\release\resolver\resolver-ca.pem
+2026-08-09 14:31:14.203 [native-resolver] EnsureReportTable ok table=pika_player_reports removedOldRows=0 removedOldClients=0 (clientRetentionDays=7)
+2026-08-09 14:31:14.203 [native-resolver] resolver started on 127.0.0.1:8787
+2026-08-09 14:31:39.659 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:31:39.663 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:31:39.758 [native-resolver] StoreDb insert query failed, attempt=1: code=1062 state=23000 message=Duplicate entry 'icyfireSC' for key 'pika_bedwars_monthly_wins.PRIMARY'
+2026-08-09 14:31:39.764 [native-resolver] StoreDb rollback, attempt=1
+2026-08-09 14:31:39.769 [native-resolver] StoreDb finished with failure uuid=296f91ca296040919ba8234d2c0ab52d name=icyfireSC
+2026-08-09 14:31:39.769 [native-resolver] store db_error uuid=296f91ca296040919ba8234d2c0ab52d name=icyfireSC rank=Titan
+2026-08-09 14:31:39.774 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-09 14:31:43.738 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:31:43.810 [native-resolver] StoreDb commit ok updated=0 inserted=1
+2026-08-09 14:31:49.753 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:31:49.825 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-09 14:31:54.539 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:31:54.539 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:31:54.539 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:31:54.556 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:31:55.107 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-09 14:31:55.143 [native-resolver] StoreDb commit ok updated=0 inserted=1
+2026-08-09 14:31:55.184 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-09 14:31:55.221 [native-resolver] StoreDb commit ok updated=0 inserted=1
+2026-08-09 14:32:08.079 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:32:08.137 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:32:08.240 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:32:08.240 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:32:08.290 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:32:08.290 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:32:08.810 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-09 14:32:08.942 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-09 14:32:08.981 [native-resolver] StoreDb insert query failed, attempt=1: code=1062 state=23000 message=Duplicate entry 'PriskusJR' for key 'pika_bedwars_monthly_wins.PRIMARY'
+2026-08-09 14:32:08.987 [native-resolver] StoreDb rollback, attempt=1
+2026-08-09 14:32:08.993 [native-resolver] StoreDb finished with failure uuid=21b456bfb9644eeeab64c66dd70bcead name=PriskusJR
+2026-08-09 14:32:08.993 [native-resolver] store db_error uuid=21b456bfb9644eeeab64c66dd70bcead name=PriskusJR rank=Titan
+2026-08-09 14:32:09.022 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-09 14:32:09.057 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-09 14:32:09.102 [native-resolver] StoreDb insert query failed, attempt=1: code=1062 state=23000 message=Duplicate entry 'spiderking_10' for key 'pika_bedwars_monthly_wins.PRIMARY'
+2026-08-09 14:32:09.109 [native-resolver] StoreDb rollback, attempt=1
+2026-08-09 14:32:09.113 [native-resolver] StoreDb finished with failure uuid=a1d0ba167b994e0eba3f9d7af8df9147 name=spiderking_10
+2026-08-09 14:32:09.114 [native-resolver] store db_error uuid=a1d0ba167b994e0eba3f9d7af8df9147 name=spiderking_10 rank=Titan
+2026-08-09 14:32:10.818 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:32:10.818 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:32:10.903 [native-resolver] StoreDb commit ok updated=0 inserted=1
+2026-08-09 14:32:10.925 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-09 14:32:11.502 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:32:11.507 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:32:11.507 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:32:11.572 [native-resolver] StoreDb insert query failed, attempt=1: code=1062 state=23000 message=Duplicate entry 'icyfireSC' for key 'pika_bedwars_monthly_wins.PRIMARY'
+2026-08-09 14:32:11.578 [native-resolver] StoreDb rollback, attempt=1
+2026-08-09 14:32:11.584 [native-resolver] StoreDb finished with failure uuid=296f91ca296040919ba8234d2c0ab52d name=icyfireSC
+2026-08-09 14:32:11.584 [native-resolver] store db_error uuid=296f91ca296040919ba8234d2c0ab52d name=icyfireSC rank=Titan
+2026-08-09 14:32:11.592 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-09 14:32:11.656 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-09 14:32:15.009 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:32:15.116 [native-resolver] StoreDb insert query failed, attempt=1: code=1062 state=23000 message=Duplicate entry 'mobsky' for key 'pika_bedwars_monthly_wins.PRIMARY'
+2026-08-09 14:32:15.122 [native-resolver] StoreDb rollback, attempt=1
+2026-08-09 14:32:15.127 [native-resolver] StoreDb finished with failure uuid=340abf5f79cb495c9f9942a580e6ffbb name=mobsky
+2026-08-09 14:32:15.127 [native-resolver] store db_error uuid=340abf5f79cb495c9f9942a580e6ffbb name=mobsky rank=Titan
+2026-08-09 14:32:17.047 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:32:17.115 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-09 14:32:20.243 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:32:20.354 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-09 14:32:29.189 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:32:29.257 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-09 14:32:34.266 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:32:34.437 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:32:34.987 [native-resolver] StoreDb commit ok updated=0 inserted=1
+2026-08-09 14:32:35.006 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-09 14:32:38.645 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:32:38.744 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:32:38.744 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:32:39.178 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-09 14:32:39.237 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-09 14:32:39.259 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-09 14:32:47.364 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:32:47.451 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-09 14:32:50.336 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:32:50.409 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-09 14:32:59.802 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:32:59.802 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:32:59.939 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-09 14:32:59.953 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-09 14:34:05.812 [native-resolver] FetchClientsByNames connect attempt=1 failed: code=2005 state=HY000 message=Unknown MySQL server host 'bw-overlay-service-lolcor33.l.aivencloud.com' (11001)
+2026-08-09 14:34:05.812 [native-resolver] clients_get db_error n=6
+2026-08-09 14:42:40.770 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:42:40.770 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:42:40.770 [native-resolver] signature invalid (store): missing ts/nonce/sig
+2026-08-09 14:42:41.497 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-09 14:42:41.563 [native-resolver] StoreDb commit ok updated=0 inserted=1
+2026-08-09 14:42:41.596 [native-resolver] StoreDb commit ok updated=1 inserted=0
+2026-08-09 14:42:52.324 [native-resolver] resolver stopped
